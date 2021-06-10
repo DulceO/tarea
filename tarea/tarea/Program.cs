@@ -36,8 +36,7 @@ namespace tarea
                 }
             }
 
-            
-            
+            Console.ReadKey();
 
         }
 
